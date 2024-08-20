@@ -1,0 +1,9 @@
+//flat string escaping
+	// esc_html__('text','textdomain');
+//flat attribute string escaping
+	// esc_attr__('text','textdomain');
+// harry theme support 
+//variable string escaping
+	// esc_html($variable);
+//url  escaping
+	// esc_url($variable);
